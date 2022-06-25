@@ -25,7 +25,7 @@
 <a href="https://instagram.com/https://www.instagram.com/fuji_433/?hl=bg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/fuji_433/?hl=bg" height="30" width="40" /></a>
 <a href="https://youtube.com/channel/UCojf2HkP59Oj06CFVW_gVZg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="fuji h.r" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/tBadpRmX" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/tBadpRmX" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/fu" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/osu.png" alt="osu.ppy.sh/users/29747707"  /></a>
+<a href="https://osu.ppy.sh/users/29747707?fbclid=IwAR3MzUuoAMZl8X0eL_cY7mhs7qsuS41Ey6fjbc8lIVnKF1SKMFKAduERmyw" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/osu.png" alt="osu.ppy.sh/users/29747707"  /></a>
 <a 
 </p>
 
