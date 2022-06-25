@@ -1,8 +1,8 @@
 
-![MasterHead](https://images6.alphacoders.com/392/thumb-1920-392429.jpg)
+![MasterHead](https://i.ibb.co/YyJYwGW/IMG-20220618-142355-picsay.pnghttps://i.ibb.co/YyJYwGW/IMG-20220618-142355-picsay.png)
 <h1 align="center">Hi 👋, I'm Fuji Halim Rabbani</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
-<img align="right" width="400" src="http://img2.reactor.cc/pics/post/Usada-Pekora-Hololive-Virtual-YouTuber-Pixel-Gif-5946922.gif">
+<img align="right" width="400" src="https://c.tenor.com/oxJAXkYXBB0AAAAC/m14.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fujitime&label=Profile%20views&color=0e75b6&style=flat" alt="fujitime" /> </p>
