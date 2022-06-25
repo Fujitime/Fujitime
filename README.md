@@ -2,7 +2,7 @@
 ![MasterHead](https://i.ibb.co/YyJYwGW/IMG-20220618-142355-picsay.pnghttps://i.ibb.co/YyJYwGW/IMG-20220618-142355-picsay.png)
 <h1 align="center">Hi 👋, I'm Fuji Halim Rabbani</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
-<img align="right" width="400" src="https://c.tenor.com/oxJAXkYXBB0AAAAC/m14.gif">
+<img align="right" width="400" src="https://i.pinimg.com/originals/62/08/9e/62089ee9672198cd380b938aec5f1577.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fujitime&label=Profile%20views&color=0e75b6&style=flat" alt="fujitime" /> </p>
