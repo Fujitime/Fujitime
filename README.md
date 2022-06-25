@@ -18,7 +18,7 @@
 - 📫 How to reach me **racun1601@gmail.com**
 
 - ⚡ Fun fact **I haven't even studied CSS and my web 
-- is a copy from someone :D**
+ is a copy from someone :D**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
