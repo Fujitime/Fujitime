@@ -9,13 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **C++**
 
-- 👨‍💻 All of my projects are available at [https://fujitime.000webhostapp.com/](https://fujitime.000webhostapp.com/)
-
-- 📝 I regularly write articles on [https://fujiblog.000webhostapp.com/](https://fujiblog.000webhostapp.com/)
-
-- 📫 How to reach me **racun1601@gmail.com**
+- 📫 How to reach me **fujihalimrabani1601@gmail.com / 
+  racun1601@gmail.com**
 
 
 
