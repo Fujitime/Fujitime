@@ -1,4 +1,4 @@
-- 📫 How to reach me **fujihalimrabani1601@gmail.com / 
+- 📫 How to reach me **fujihalimrabani1601@gmail.com || 
   racun1601@gmail.com**
 
 
