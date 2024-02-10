@@ -1,2 +1,2 @@
 ## 📋 Profile
-A student who is still learning about the world of coding
+A person who write code for hobby.
